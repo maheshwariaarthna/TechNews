@@ -201,7 +201,7 @@
                             <li><a href="/podcast">Podcast</a></li>
                             <li><a href="/sms-subscription">Sms Subscription</a></li>
                             <li><a href="/advertisement-policy">Advertisement Policy</a></li>
-                            <li><a href="/report-technical-issue">Report Technical issue</a></li>
+                            <li><a href="/report-technical-issues">Report Technical issue</a></li>
                             <li><a href="/complaints-and-corrections">Complaints and Corrections</a></li>
                             <li><a href="/terms-and-conditions">Terms and Conditions</a></li>
                             <li><a href="/privacy-policy">Privacy Policy</a></li>
